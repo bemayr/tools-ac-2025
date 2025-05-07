@@ -1,3 +1,3 @@
 function another() {
-    alert()
+    alert("some content")
 }
